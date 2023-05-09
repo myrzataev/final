@@ -56,22 +56,7 @@
 
 `POST   localhost:8008/login`
 
-* Request Body
 
-```
-    {
-        
-        "password": "Aamir@123",
-        "userId": 1,
-        "userName": "AamirSohail"
-    }
-```
 
-* Response
 
-```
-    {
-         UserSession(id=2, userId=1, UUID=000267, timeStamp=2022-11-14T14:12:43.129790400)
 
-    }
-```
